@@ -1,0 +1,7 @@
+h3 {
+    text-decoration: underline;
+}
+
+#del li{
+    text-decoration: line-through;
+}
